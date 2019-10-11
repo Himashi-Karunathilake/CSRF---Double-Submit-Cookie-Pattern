@@ -10,4 +10,4 @@ Password: cookie
 
 Read More:
   Cross-Site Request Forgery (CSRF) - https://mysnowfrostpersonal.wordpress.com/2019/10/11/cross-site-request-forgery-csrf/
-  Synchronizer Token Pattern (STP) - 
+  Double Submit Cookie Pattern - https://mysnowfrostpersonal.wordpress.com/2019/10/11/double-submit-cookie-pattern/
