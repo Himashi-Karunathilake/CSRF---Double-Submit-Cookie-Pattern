@@ -1,9 +1,9 @@
 # CSRF---Double-Submit-Cookie-Pattern
-This repository contains the source code of a web application that protects itself from CSRF attacks using Double Submit Cookie Pattern.
+This repository contains the source code of a web application that protects itself from CSRF attacks using the Double Submit Cookie Pattern.
 
 
 Clone the dscp folder and move it to htdocs in XAMPP.
-Access using localhosot/dscp/
+Access using localhost/dscp/
 
 Username: admin
 Password: cookie
